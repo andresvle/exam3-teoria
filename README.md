@@ -16,7 +16,7 @@ git clone https://github.com/andresvle/exam3-teoria
 
 ## 4. Entramos a app/
 bash
-cd app/
+cd exam3-teoria/
 
 
 ## 5. Construye la imagen Docker 
