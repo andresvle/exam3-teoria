@@ -11,7 +11,7 @@ sudo apt install docker-compose -y
 
 ## 3. se clona este repositorio en la maquina:
 bash
-git clone [https://github.com/andres123/Proyecto-final.git](https://github.com/andresvle/exam3-teoria)
+git clone https://github.com/andresvle/exam3-teoria
 
 
 ## 4. Entramos a app/
